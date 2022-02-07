@@ -4,6 +4,8 @@ dmitri.shuralyov.com/gpu/mtl v0.0.0-20201218220906-28db891af037/go.mod h1:H6x//7
 gioui.org v0.0.0-20211110142422-303b81953991/go.mod h1:yoWOxPng6WkDpsud+NRmkoftmyWn3rkKsYGEcWHpjTI=
 gioui.org/cmd v0.0.0-20220201110800-4416a137865b h1:QUWca7ULBtmf89+26ZxpTrDvKzp1R7ANs4QqjJp6B2A=
 gioui.org/cmd v0.0.0-20220201110800-4416a137865b/go.mod h1:bH6HiOnaLVXwKxDBQyhZOC97zcDIZBvl0PUxmIRtEGw=
+gioui.org/cmd v0.0.0-20220206102100-9d778d7bde57 h1:6shggNzBKs2253iIIOp5ryhYDwS25GGTTrr5k4qyW38=
+gioui.org/cmd v0.0.0-20220206102100-9d778d7bde57/go.mod h1:bH6HiOnaLVXwKxDBQyhZOC97zcDIZBvl0PUxmIRtEGw=
 gioui.org/cpu v0.0.0-20210808092351-bfe733dd3334/go.mod h1:A8M0Cn5o+vY5LTMlnRoK3O5kG+rH0kWfJjeKd9QpBmQ=
 gioui.org/cpu v0.0.0-20210817075930-8d6a761490d2/go.mod h1:A8M0Cn5o+vY5LTMlnRoK3O5kG+rH0kWfJjeKd9QpBmQ=
 gioui.org/shader v1.0.6/go.mod h1:mWdiME581d/kV7/iEhLmUgUK5iZ09XR5XpduXzbePVM=

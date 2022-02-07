@@ -10,9 +10,9 @@ cp static/* ../_html/go
 cd ..
 
 ## Compile CSharp
-#cd csharp
-#dotnet publish -c Release
-#mkdir -p ../_html/csharp/
-#mkdir -p ../_html/csharp/_framework/
-#mv bin/Release/net6.0/publish/wwwroot/_framework/* ../_html/csharp/_framework/
-#cp -f index.html ../_html/csharp/
+cd csharp
+dotnet publish -c Release
+mkdir -p ../_html/csharp/
+mkdir -p ../_html/csharp/_framework/
+mv bin/Release/net6.0/publish/wwwroot/_framework/* ../_html/csharp/_framework/
+cp -f index.html ../_html/csharp/

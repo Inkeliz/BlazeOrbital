@@ -5,7 +5,7 @@ go 1.17
 require github.com/chewxy/math32 v1.10.1
 
 require (
-	gioui.org/cmd v0.0.0-20220201110800-4416a137865b // indirect
+	gioui.org/cmd v0.0.0-20220206102100-9d778d7bde57 // indirect
 	github.com/akavel/rsrc v0.10.1 // indirect
 	golang.org/x/image v0.0.0-20210628002857-a66eb6448b8d // indirect
 	golang.org/x/mod v0.4.2 // indirect
